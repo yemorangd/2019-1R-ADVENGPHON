@@ -1,3 +1,2 @@
-Class2019Spring\n
-영어음성학 응용 repository\n
+Class2019Spring
 2014130300 심리학과 
